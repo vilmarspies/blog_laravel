@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace Blog\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Http\Requests;
-use App\Http\Controllers\Controller;
+use Blog\Http\Requests;
+use Blog\Http\Controllers\Controller;
 
 class PostController extends Controller
 {
