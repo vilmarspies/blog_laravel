@@ -45,8 +45,11 @@
 </div>
 <footer class="container-fluid well">
     <div class="row">
-        <div class="col-md-12">
-            Projeto do curso Laravel Code Education | Vilmar Spies
+        <div class="col-md-6">
+            Projeto do curso Laravel Code Education
+        </div>
+         <div class="col-md-6 ">
+            <p align="right">Powered By Vilmar Spies</p>
         </div>
     </div>
     
